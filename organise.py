@@ -28,6 +28,10 @@ def get_new_filename(f, create_dirs=False):
     title_ = title.lower().replace(" ", "_")
 
     f_ = os.path.join(d, f"{id_}_{title_}.{ext}")
+    count = 0
+    while os.path.exists(f_):
+        count += 1
+        f_ = os.path.join(d, f"{id_}_{title_}_{count}.{ext}")
     return f_
 
 
