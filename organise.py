@@ -64,7 +64,7 @@ for r, dirs, files in os.walk("./"):
         for f in files:
             v = re.split(r"_|\.", f)
             v_ = " ".join(v[1:-1])
-            line = f"* {v[0]} [{v_}]({os.path.join(r,f)}) \n"
+            line = f"* {v[0]} [{v_}]({r}/{f}) \n"
             body.append(line)
 
 
