@@ -1,9 +1,9 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **94 problems** 
+* A total of **98 problems** 
 ## ./0001-0200 
-*41 problems* 
+*42 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
 * 0003 [longest substring without repeating characters](./0001-0200/0003_longest_substring_without_repeating_characters.ipynb) 
 * 0004 [median of two sorted arrays](./0001-0200/0004_median_of_two_sorted_arrays.ipynb) 
@@ -37,6 +37,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0126 [word ladder ii](./0001-0200/0126_word_ladder_ii.ipynb) 
 * 0127 [word ladder](./0001-0200/0127_word_ladder.ipynb) 
 * 0136 [single number](./0001-0200/0136_single_number.ipynb) 
+* 0136 [single number 1](./0001-0200/0136_single_number_1.ipynb) 
 * 0149 [max points on a line](./0001-0200/0149_max_points_on_a_line.ipynb) 
 * 0152 [maximum product subarray](./0001-0200/0152_maximum_product_subarray.ipynb) 
 * 0167 [two sum ii - input array is sorted](./0001-0200/0167_two_sum_ii_-_input_array_is_sorted.ipynb) 
@@ -46,12 +47,13 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0198 [house robber 1](./0001-0200/0198_house_robber_1.ipynb) 
 * 0200 [number of islands](./0001-0200/0200_number_of_islands.ipynb) 
 ## ./0201-0400 
-*17 problems* 
+*19 problems* 
 * 0206 [reverse linked list](./0201-0400/0206_reverse_linked_list.ipynb) 
 * 0213 [house robber ii](./0201-0400/0213_house_robber_ii.ipynb) 
 * 0219 [contains duplicate ii](./0201-0400/0219_contains_duplicate_ii.ipynb) 
 * 0220 [contains duplicate iii](./0201-0400/0220_contains_duplicate_iii.ipynb) 
 * 0242 [valid anagram](./0201-0400/0242_valid_anagram.ipynb) 
+* 0261 [graph valid tree](./0201-0400/0261_graph_valid_tree.ipynb) 
 * 0273 [integer to english words](./0201-0400/0273_integer_to_english_words.ipynb) 
 * 0277 [find the celebrity](./0201-0400/0277_find_the_celebrity.ipynb) 
 * 0278 [first bad version](./0201-0400/0278_first_bad_version.ipynb) 
@@ -62,6 +64,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0338 [counting bits](./0201-0400/0338_counting_bits.ipynb) 
 * 0344 [reverse string](./0201-0400/0344_reverse_string.ipynb) 
 * 0345 [reverse vowels of a string](./0201-0400/0345_reverse_vowels_of_a_string.ipynb) 
+* 0369 [plus one linked list](./0201-0400/0369_plus_one_linked_list.ipynb) 
 * 0374 [guess number higher or lower](./0201-0400/0374_guess_number_higher_or_lower.ipynb) 
 * 0397 [integer replacement](./0201-0400/0397_integer_replacement.ipynb) 
 ## ./0401-0600 
@@ -112,6 +115,9 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 ## ./1601-1800 
 *1 problems* 
 * 1631 [path with minimum effort](./1601-1800/1631_path_with_minimum_effort.ipynb) 
+## ./1801-2000 
+*1 problems* 
+* 1836 [remove duplicates from an unsorted linked list](./1801-2000/1836_remove_duplicates_from_an_unsorted_linked_list.ipynb) 
 ## ./2001-2200 
 *1 problems* 
 * 2069 [walking robot simulation ii](./2001-2200/2069_walking_robot_simulation_ii.ipynb) 
