@@ -1,12 +1,13 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **98 problems** 
+* A total of **99 problems** 
 ## ./0001-0200 
-*42 problems* 
+*43 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
 * 0003 [longest substring without repeating characters](./0001-0200/0003_longest_substring_without_repeating_characters.ipynb) 
 * 0004 [median of two sorted arrays](./0001-0200/0004_median_of_two_sorted_arrays.ipynb) 
+* 0005 [longest palindromic substring](./0001-0200/0005_longest_palindromic_substring.ipynb) 
 * 0007 [reverse integer](./0001-0200/0007_reverse_integer.ipynb) 
 * 0010 [regular expression matching](./0001-0200/0010_regular_expression_matching.ipynb) 
 * 0015 [3sum](./0001-0200/0015_3sum.ipynb) 
