@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **107 problems** 
+* A total of **108 problems** 
 ## ./0001-0200 
 *47 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -73,13 +73,14 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0374 [guess number higher or lower](./0201-0400/0374_guess_number_higher_or_lower.ipynb) 
 * 0397 [integer replacement](./0201-0400/0397_integer_replacement.ipynb) 
 ## ./0401-0600 
-*11 problems* 
+*12 problems* 
 * 0413 [arithmetic slices](./0401-0600/0413_arithmetic_slices.ipynb) 
 * 0429 [n ary tree level order traversal](./0401-0600/0429_n_ary_tree_level_order_traversal.ipynb) 
 * 0438 [find all anagrams in a string](./0401-0600/0438_find_all_anagrams_in_a_string.ipynb) 
 * 0474 [ones and zeroes](./0401-0600/0474_ones_and_zeroes.ipynb) 
 * 0523 [continuous subarray sum](./0401-0600/0523_continuous_subarray_sum.ipynb) 
 * 0542 [01 matrix](./0401-0600/0542_01_matrix.ipynb) 
+* 0543 [diameter of binary tree](./0401-0600/0543_diameter_of_binary_tree.ipynb) 
 * 0557 [reverse words in a string iii](./0401-0600/0557_reverse_words_in_a_string_iii.ipynb) 
 * 0557 [reverse words in a string iii 1](./0401-0600/0557_reverse_words_in_a_string_iii_1.ipynb) 
 * 0561 [array partition i](./0401-0600/0561_array_partition_i.ipynb) 
