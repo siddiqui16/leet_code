@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **106 problems** 
+* A total of **107 problems** 
 ## ./0001-0200 
 *47 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -117,8 +117,9 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 *1 problems* 
 * 1289 [minimum falling path sum ii](./1201-1400/1289_minimum_falling_path_sum_ii.ipynb) 
 ## ./1401-1600 
-*2 problems* 
+*3 problems* 
 * 1491 [average salary excluding the min max salary](./1401-1600/1491_average_salary_excluding_the_min_max_salary.ipynb) 
+* 1522 [diameter of n ary tree](./1401-1600/1522_diameter_of_n_ary_tree.ipynb) 
 * 1523 [count odd numbers in an interval range](./1401-1600/1523_count_odd_numbers_in_an_interval_range.ipynb) 
 ## ./1601-1800 
 *1 problems* 
