@@ -1,9 +1,9 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **114 problems** 
+* A total of **116 problems** 
 ## ./0001-0200 
-*47 problems* 
+*48 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
 * 0003 [longest substring without repeating characters](./0001-0200/0003_longest_substring_without_repeating_characters.ipynb) 
 * 0004 [median of two sorted arrays](./0001-0200/0004_median_of_two_sorted_arrays.ipynb) 
@@ -43,6 +43,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0136 [single number 1](./0001-0200/0136_single_number_1.ipynb) 
 * 0144 [binary tree preorder traversal](./0001-0200/0144_binary_tree_preorder_traversal.ipynb) 
 * 0145 [binary tree postorder traversal](./0001-0200/0145_binary_tree_postorder_traversal.ipynb) 
+* 0146 [lru cache](./0001-0200/0146_lru_cache.ipynb) 
 * 0149 [max points on a line](./0001-0200/0149_max_points_on_a_line.ipynb) 
 * 0152 [maximum product subarray](./0001-0200/0152_maximum_product_subarray.ipynb) 
 * 0167 [two sum ii - input array is sorted](./0001-0200/0167_two_sum_ii_-_input_array_is_sorted.ipynb) 
@@ -122,8 +123,9 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 *1 problems* 
 * 1289 [minimum falling path sum ii](./1201-1400/1289_minimum_falling_path_sum_ii.ipynb) 
 ## ./1401-1600 
-*4 problems* 
+*5 problems* 
 * 1483 [kth ancestor of a tree node](./1401-1600/1483_kth_ancestor_of_a_tree_node.ipynb) 
+* 1483 [kth ancestor of a tree node 1](./1401-1600/1483_kth_ancestor_of_a_tree_node_1.ipynb) 
 * 1491 [average salary excluding the min max salary](./1401-1600/1491_average_salary_excluding_the_min_max_salary.ipynb) 
 * 1522 [diameter of n ary tree](./1401-1600/1522_diameter_of_n_ary_tree.ipynb) 
 * 1523 [count odd numbers in an interval range](./1401-1600/1523_count_odd_numbers_in_an_interval_range.ipynb) 
