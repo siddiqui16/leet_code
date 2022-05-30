@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **108 problems** 
+* A total of **114 problems** 
 ## ./0001-0200 
 *47 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -52,7 +52,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0198 [house robber 1](./0001-0200/0198_house_robber_1.ipynb) 
 * 0200 [number of islands](./0001-0200/0200_number_of_islands.ipynb) 
 ## ./0201-0400 
-*19 problems* 
+*20 problems* 
 * 0206 [reverse linked list](./0201-0400/0206_reverse_linked_list.ipynb) 
 * 0213 [house robber ii](./0201-0400/0213_house_robber_ii.ipynb) 
 * 0219 [contains duplicate ii](./0201-0400/0219_contains_duplicate_ii.ipynb) 
@@ -69,15 +69,17 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0338 [counting bits](./0201-0400/0338_counting_bits.ipynb) 
 * 0344 [reverse string](./0201-0400/0344_reverse_string.ipynb) 
 * 0345 [reverse vowels of a string](./0201-0400/0345_reverse_vowels_of_a_string.ipynb) 
+* 0353 [design snake game](./0201-0400/0353_design_snake_game.ipynb) 
 * 0369 [plus one linked list](./0201-0400/0369_plus_one_linked_list.ipynb) 
 * 0374 [guess number higher or lower](./0201-0400/0374_guess_number_higher_or_lower.ipynb) 
 * 0397 [integer replacement](./0201-0400/0397_integer_replacement.ipynb) 
 ## ./0401-0600 
-*12 problems* 
+*13 problems* 
 * 0413 [arithmetic slices](./0401-0600/0413_arithmetic_slices.ipynb) 
 * 0429 [n ary tree level order traversal](./0401-0600/0429_n_ary_tree_level_order_traversal.ipynb) 
 * 0438 [find all anagrams in a string](./0401-0600/0438_find_all_anagrams_in_a_string.ipynb) 
 * 0474 [ones and zeroes](./0401-0600/0474_ones_and_zeroes.ipynb) 
+* 0498 [diagonal traverse](./0401-0600/0498_diagonal_traverse.ipynb) 
 * 0523 [continuous subarray sum](./0401-0600/0523_continuous_subarray_sum.ipynb) 
 * 0542 [01 matrix](./0401-0600/0542_01_matrix.ipynb) 
 * 0543 [diameter of binary tree](./0401-0600/0543_diameter_of_binary_tree.ipynb) 
@@ -87,7 +89,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0567 [permutation in string](./0401-0600/0567_permutation_in_string.ipynb) 
 * 0589 [n ary tree preorder traversal](./0401-0600/0589_n_ary_tree_preorder_traversal.ipynb) 
 ## ./0601-0800 
-*12 problems* 
+*13 problems* 
 * 0617 [merge two binary trees](./0601-0800/0617_merge_two_binary_trees.ipynb) 
 * 0695 [max area of island](./0601-0800/0695_max_area_of_island.ipynb) 
 * 0695 [max area of island 1](./0601-0800/0695_max_area_of_island_1.ipynb) 
@@ -96,18 +98,20 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0704 [binary search](./0601-0800/0704_binary_search.ipynb) 
 * 0706 [design hashmap](./0601-0800/0706_design_hashmap.ipynb) 
 * 0706 [design hashmap 1](./0601-0800/0706_design_hashmap_1.ipynb) 
+* 0708 [insert into a sorted circular linked list](./0601-0800/0708_insert_into_a_sorted_circular_linked_list.ipynb) 
 * 0733 [flood fill](./0601-0800/0733_flood_fill.ipynb) 
 * 0740 [delete and earn](./0601-0800/0740_delete_and_earn.ipynb) 
 * 0746 [min cost climbing stairs](./0601-0800/0746_min_cost_climbing_stairs.ipynb) 
 * 0784 [letter case permutation](./0601-0800/0784_letter_case_permutation.ipynb) 
 ## ./0801-1000 
-*8 problems* 
+*9 problems* 
 * 0852 [peak index in a mountain array](./0801-1000/0852_peak_index_in_a_mountain_array.ipynb) 
 * 0852 [peak index in a mountain array 1](./0801-1000/0852_peak_index_in_a_mountain_array_1.ipynb) 
 * 0876 [middle of the linked list](./0801-1000/0876_middle_of_the_linked_list.ipynb) 
 * 0931 [minimum falling path sum](./0801-1000/0931_minimum_falling_path_sum.ipynb) 
 * 0977 [squares of a sorted array](./0801-1000/0977_squares_of_a_sorted_array.ipynb) 
 * 0983 [minimum cost for tickets](./0801-1000/0983_minimum_cost_for_tickets.ipynb) 
+* 0987 [vertical order traversal of a binary tree](./0801-1000/0987_vertical_order_traversal_of_a_binary_tree.ipynb) 
 * 0992 [subarrays with k different integers](./0801-1000/0992_subarrays_with_k_different_integers.ipynb) 
 * 0994 [rotting oranges](./0801-1000/0994_rotting_oranges.ipynb) 
 ## ./1001-1200 
@@ -118,12 +122,14 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 *1 problems* 
 * 1289 [minimum falling path sum ii](./1201-1400/1289_minimum_falling_path_sum_ii.ipynb) 
 ## ./1401-1600 
-*3 problems* 
+*4 problems* 
+* 1483 [kth ancestor of a tree node](./1401-1600/1483_kth_ancestor_of_a_tree_node.ipynb) 
 * 1491 [average salary excluding the min max salary](./1401-1600/1491_average_salary_excluding_the_min_max_salary.ipynb) 
 * 1522 [diameter of n ary tree](./1401-1600/1522_diameter_of_n_ary_tree.ipynb) 
 * 1523 [count odd numbers in an interval range](./1401-1600/1523_count_odd_numbers_in_an_interval_range.ipynb) 
 ## ./1601-1800 
-*1 problems* 
+*2 problems* 
+* 1603 [design parking system](./1601-1800/1603_design_parking_system.ipynb) 
 * 1631 [path with minimum effort](./1601-1800/1631_path_with_minimum_effort.ipynb) 
 ## ./1801-2000 
 *1 problems* 
