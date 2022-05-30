@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **119 problems** 
+* A total of **120 problems** 
 ## ./0001-0200 
 *49 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -107,10 +107,11 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0746 [min cost climbing stairs](./0601-0800/0746_min_cost_climbing_stairs.ipynb) 
 * 0784 [letter case permutation](./0601-0800/0784_letter_case_permutation.ipynb) 
 ## ./0801-1000 
-*10 problems* 
+*11 problems* 
 * 0852 [peak index in a mountain array](./0801-1000/0852_peak_index_in_a_mountain_array.ipynb) 
 * 0852 [peak index in a mountain array 1](./0801-1000/0852_peak_index_in_a_mountain_array_1.ipynb) 
 * 0876 [middle of the linked list](./0801-1000/0876_middle_of_the_linked_list.ipynb) 
+* 0896 [monotonic array](./0801-1000/0896_monotonic_array.ipynb) 
 * 0931 [minimum falling path sum](./0801-1000/0931_minimum_falling_path_sum.ipynb) 
 * 0977 [squares of a sorted array](./0801-1000/0977_squares_of_a_sorted_array.ipynb) 
 * 0983 [minimum cost for tickets](./0801-1000/0983_minimum_cost_for_tickets.ipynb) 
