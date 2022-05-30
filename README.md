@@ -1,9 +1,9 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **116 problems** 
+* A total of **119 problems** 
 ## ./0001-0200 
-*48 problems* 
+*49 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
 * 0003 [longest substring without repeating characters](./0001-0200/0003_longest_substring_without_repeating_characters.ipynb) 
 * 0004 [median of two sorted arrays](./0001-0200/0004_median_of_two_sorted_arrays.ipynb) 
@@ -30,6 +30,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0075 [sort colors](./0001-0200/0075_sort_colors.ipynb) 
 * 0077 [combinations](./0001-0200/0077_combinations.ipynb) 
 * 0088 [merge sorted array](./0001-0200/0088_merge_sorted_array.ipynb) 
+* 0091 [decode ways](./0001-0200/0091_decode_ways.ipynb) 
 * 0094 [binary tree inorder traversal](./0001-0200/0094_binary_tree_inorder_traversal.ipynb) 
 * 0102 [binary tree level order traversal](./0001-0200/0102_binary_tree_level_order_traversal.ipynb) 
 * 0116 [populating next right pointers in each node](./0001-0200/0116_populating_next_right_pointers_in_each_node.ipynb) 
@@ -90,7 +91,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0567 [permutation in string](./0401-0600/0567_permutation_in_string.ipynb) 
 * 0589 [n ary tree preorder traversal](./0401-0600/0589_n_ary_tree_preorder_traversal.ipynb) 
 ## ./0601-0800 
-*13 problems* 
+*14 problems* 
 * 0617 [merge two binary trees](./0601-0800/0617_merge_two_binary_trees.ipynb) 
 * 0695 [max area of island](./0601-0800/0695_max_area_of_island.ipynb) 
 * 0695 [max area of island 1](./0601-0800/0695_max_area_of_island_1.ipynb) 
@@ -100,18 +101,20 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0706 [design hashmap](./0601-0800/0706_design_hashmap.ipynb) 
 * 0706 [design hashmap 1](./0601-0800/0706_design_hashmap_1.ipynb) 
 * 0708 [insert into a sorted circular linked list](./0601-0800/0708_insert_into_a_sorted_circular_linked_list.ipynb) 
+* 0721 [accounts merge](./0601-0800/0721_accounts_merge.ipynb) 
 * 0733 [flood fill](./0601-0800/0733_flood_fill.ipynb) 
 * 0740 [delete and earn](./0601-0800/0740_delete_and_earn.ipynb) 
 * 0746 [min cost climbing stairs](./0601-0800/0746_min_cost_climbing_stairs.ipynb) 
 * 0784 [letter case permutation](./0601-0800/0784_letter_case_permutation.ipynb) 
 ## ./0801-1000 
-*9 problems* 
+*10 problems* 
 * 0852 [peak index in a mountain array](./0801-1000/0852_peak_index_in_a_mountain_array.ipynb) 
 * 0852 [peak index in a mountain array 1](./0801-1000/0852_peak_index_in_a_mountain_array_1.ipynb) 
 * 0876 [middle of the linked list](./0801-1000/0876_middle_of_the_linked_list.ipynb) 
 * 0931 [minimum falling path sum](./0801-1000/0931_minimum_falling_path_sum.ipynb) 
 * 0977 [squares of a sorted array](./0801-1000/0977_squares_of_a_sorted_array.ipynb) 
 * 0983 [minimum cost for tickets](./0801-1000/0983_minimum_cost_for_tickets.ipynb) 
+* 0986 [interval list intersections](./0801-1000/0986_interval_list_intersections.ipynb) 
 * 0987 [vertical order traversal of a binary tree](./0801-1000/0987_vertical_order_traversal_of_a_binary_tree.ipynb) 
 * 0992 [subarrays with k different integers](./0801-1000/0992_subarrays_with_k_different_integers.ipynb) 
 * 0994 [rotting oranges](./0801-1000/0994_rotting_oranges.ipynb) 
