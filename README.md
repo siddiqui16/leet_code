@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **120 problems** 
+* A total of **121 problems** 
 ## ./0001-0200 
 *49 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -54,8 +54,9 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0198 [house robber 1](./0001-0200/0198_house_robber_1.ipynb) 
 * 0200 [number of islands](./0001-0200/0200_number_of_islands.ipynb) 
 ## ./0201-0400 
-*20 problems* 
+*21 problems* 
 * 0206 [reverse linked list](./0201-0400/0206_reverse_linked_list.ipynb) 
+* 0208 [implement trie (prefix tree)](./0201-0400/0208_implement_trie_(prefix_tree).ipynb) 
 * 0213 [house robber ii](./0201-0400/0213_house_robber_ii.ipynb) 
 * 0219 [contains duplicate ii](./0201-0400/0219_contains_duplicate_ii.ipynb) 
 * 0220 [contains duplicate iii](./0201-0400/0220_contains_duplicate_iii.ipynb) 
