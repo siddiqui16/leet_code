@@ -1,9 +1,9 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **125 problems** 
+* A total of **126 problems** 
 ## ./0001-0200 
-*53 problems* 
+*54 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
 * 0003 [longest substring without repeating characters](./0001-0200/0003_longest_substring_without_repeating_characters.ipynb) 
 * 0004 [median of two sorted arrays](./0001-0200/0004_median_of_two_sorted_arrays.ipynb) 
@@ -20,6 +20,7 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 * 0029 [divide two integers](./0001-0200/0029_divide_two_integers.ipynb) 
 * 0035 [search insert position](./0001-0200/0035_search_insert_position.ipynb) 
 * 0036 [valid sudoku](./0001-0200/0036_valid_sudoku.ipynb) 
+* 0041 [first missing positive](./0001-0200/0041_first_missing_positive.ipynb) 
 * 0044 [wildcard matching](./0001-0200/0044_wildcard_matching.ipynb) 
 * 0045 [jump game ii](./0001-0200/0045_jump_game_ii.ipynb) 
 * 0046 [permutations](./0001-0200/0046_permutations.ipynb) 
