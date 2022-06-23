@@ -1,7 +1,7 @@
 # Leet Code Solutions
 I started doing leet code properly on *03.10.2021.*
 Here I will document all the problems that I have solved using *jupyter-notebooks*.
-* A total of **126 problems** 
+* A total of **127 problems** 
 ## ./0001-0200 
 *54 problems* 
 * 0001 [two sum](./0001-0200/0001_two_sum.ipynb) 
@@ -149,6 +149,9 @@ Here I will document all the problems that I have solved using *jupyter-notebook
 ## ./2001-2200 
 *1 problems* 
 * 2069 [walking robot simulation ii](./2001-2200/2069_walking_robot_simulation_ii.ipynb) 
+## ./2201-2400 
+*1 problems* 
+* 2265 [count nodes equal to average of subtree](./2201-2400/2265_count_nodes_equal_to_average_of_subtree.ipynb) 
 ## ./9801-10000 
 *1 problems* 
 * 9999 [extras implement heap](./9801-10000/9999_extras_implement_heap.ipynb) 
